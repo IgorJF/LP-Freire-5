@@ -149,9 +149,10 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
-	strong, b {
-		color: #fff;
+	b {
+		color: #daa520;
 		font-weight: 600;
+		text-transform: uppercase;
 	}
 
 	em, i {
@@ -1054,7 +1055,7 @@ input, select, textarea {
 			}
 
 				#footer .icons a:hover {
-					color: #fff;
+					color: #daa520;
 				}
 
 		#footer .copyright {
